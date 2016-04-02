@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.clr{
+	clear: both;
+}
+
+.body{
+	font-family: Arial;
+	font-size: 11px;
+}
+
+.main{
+	max-width: 100%;	
+	margin: auto;
+	background-image:url(BangCuuChuong.jpg);
+	height:1204px;
+	max-width:100%;
+	background-repeat: no-repeat;
+    background-position: center;
+}

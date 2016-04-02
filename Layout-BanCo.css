@@ -1,0 +1,27 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.clr{
+	clear: both;
+}
+
+.body{
+	font-family: Arial;
+	font-size: 11px;
+}
+
+.main{
+	max-width: 100%;	
+	margin: auto;
+	background-image:url(Banco.jpg);
+	height:1050px;
+	max-width:100%;
+	background-repeat: no-repeat;
+    background-position: center;
+}
+.img{
+	padding-top: 230px;
+	padding-left: 370px;
+}
